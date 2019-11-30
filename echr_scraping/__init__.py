@@ -1,1 +1,1 @@
-from case import Case
+from echr_scraping.case import Case
